@@ -13,3 +13,5 @@
 ## What I Learned 
 Write 3–5 sentences in your own words about Git, GitHub, repositories, commits, and branches.
 ## Tools Used- GitHub website- Web browser
+## Branch Practice 
+I created the assignment-notes branch to practise isolated changes.
